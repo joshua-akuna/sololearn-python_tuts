@@ -12,4 +12,10 @@ Python has a number of inbuilt data structures including
 * Sets
 * Dictionaries
 
+In addition to the builtin data structures, you can create custom data structures which have many uses in popular algorithms. These includes
+* linked lists
+* stacks
+* queues
+* trees
+
 This repository looks at all the python data structures and how to use them.
